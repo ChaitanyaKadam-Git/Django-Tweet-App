@@ -1,0 +1,1 @@
+console.log("Hello, Chaitanya! This is your static JavaScript file.");
